@@ -1,4 +1,4 @@
-# MediPredict: A Web-Based ML Solution for Disease Prediction and Prescription Recommendations
+# MediPredict: A Web-Based ML Solution for Disease Prediction and Elementary Prescription Recommendations
 
 MediPredict is a web-based healthcare platform that leverages machine learning to predict diseases based on user-reported symptoms and provides personalized medical recommendations. Designed with scalability, accuracy, and user accessibility in mind, MediPredict offers an innovative solution for early diagnosis and improved healthcare access.
 
